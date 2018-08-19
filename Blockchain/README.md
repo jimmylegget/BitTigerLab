@@ -28,23 +28,5 @@ Disclaimer: None of this is financial advice
 - [如何实现以太坊](Classes/Ethereum/README.md)
 - [如何实现Solidity](Classes/Solidity/README.md)
 
-## 基础篇
 
-- [实战智能合约：数据保存](Classes/SimpleStorage.md)
-
-## 高级篇
-
-- [实战智能合约：代理投票](Classes/Voting.md)
-- [实战智能合约：公开拍卖](Classes/Auction.md)
-- [实战智能合约：密封拍卖](Classes/BlindAuction.md)
-- [实战智能合约：买卖物品](Classes/Purchase.md)
-- [实战智能合约：EtherShrimpFarm](Classes/EtherShrimpFarm/README.md)
-
-## 精英篇
-
-- [实战智能合约：CryptoKitties](Classes/CryptoKitties/README.md)
-- [实战智能合约：PoWH3D](Classes/PoWH3D/README.md)
-- [实战智能合约：Bancor](Classes/Bancor/README.md)
-- [实战智能合约：Compound](Classes/Compound/README.md)
-- [实战智能合约：AirSwap](Classes/AirSwap/README.md)
 ## 扩展篇
