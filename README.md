@@ -1,33 +1,3 @@
-# 沁原的硅谷创新课
-
-- 作者：冯沁原
-- 网站：[www.bittiger.io](http://www.bittiger.io)
-- 邮箱：qinyuan@bittiger.io
-- 微信：zhaxisangbo
-
-## 这门课能给你带来什么？
-
-- 挖掘结构性变化
-- 探寻背后的原理
-- 把握未来的机遇
-
-## 什么是创新
-
-所谓创新，就是一个产生结构性变化的机遇。变化意味着机遇，而结构性变化意味着自底向上的更大机遇。当今，区块链和人工智能都是能够产生结构性变化的机遇。区块链会改变利益分配的方式，提升利益分配的效率，甚至让非生物进入到利益的交换体系之中。人工智能会降低人类的存在感，那些只有人类能做的事情越来越少，我们会越来越在机器的指导下生存。
-
-## 学前沿
-
-- [区块链从入门到精通](Blockchain/README.md)
-- [人工智能从入门到精通](ArtificialIntelligent/README.md)
-
-## 打基础
-
-- [计算机科学从入门到精通](ComputerScience/README.md)
-- [算法设计从入门到精通](AlgorithmDesign/README.md)
-- [系统设计从入门到精通](SystemDesign/README.md)
-- [数据科学从入门到精通](DataScientist/README.md)
-
-
 ## 创新课
 
 - [006 沁原的硅谷创新课 006 区块链最火的农场游戏是如何赚钱的 Ether Shrimp Farm、Ethereum、Solidity、Remix、DAPP](https://www.youtube.com/watch?v=CsLYK7mz2P0)
@@ -52,6 +22,20 @@
 - [003 更新树节点 Tableau-全职-电面-社招](Interview/003.md)
 - [002 比特翻转 Amazon-全职-技术电面-社招](Interview/002.md)
 - [001 偷蛋糕 AQR-全职-在线笔试-应届](Interview/001.md)
+
+
+## 学前沿
+
+- [区块链从入门到精通](Blockchain/README.md)
+
+## 打基础
+
+- [计算机科学从入门到精通](ComputerScience/README.md)
+- [算法设计从入门到精通](AlgorithmDesign/README.md)
+- [系统设计从入门到精通](SystemDesign/README.md)
+- [数据科学从入门到精通](DataScientist/README.md)
+
+
 
 ## 新机遇
 
